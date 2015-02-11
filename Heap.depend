@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1423270830 source:/home/allan/Documents/UTFpr/ENG_Terceiro_Periodo/Estruturas de Dados 1/Teste/Heap/main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<iterator>
+
+1423577983 source:/home/todos/alunos/ct/a1516728/Heap/main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<iterator>
+
+1423581583 source:d:\github\ed1-heap\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<iterator>
+
